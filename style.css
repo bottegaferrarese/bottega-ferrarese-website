@@ -137,4 +137,5 @@ footer .lab{color:#8f8378;margin-bottom:16px;display:block}
 .look{padding:18px 18px 40px}.items li{grid-template-columns:34px 1fr}.items li .btn{grid-column:2;justify-self:start}
 footer.site{padding:80px 0 24px;margin-top:80px}.fstate{margin-bottom:50px}.fcols{grid-template-columns:1fr 1fr;gap:32px}.wordmark{font-size:13.4vw;margin-top:44px}
 .js .rv{transform:translateY(18px)}}
+.rail,.board .grid,.related .grid{overflow-y:hidden;overscroll-behavior-x:contain;touch-action:pan-x pan-y}.rail .rv,.board .grid .rv,.related .grid .rv{transform:none}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}.js .rv{opacity:1;transform:none}html{scroll-behavior:auto}}
