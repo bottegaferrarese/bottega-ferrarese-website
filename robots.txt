@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bottegaferrarese.de/sitemap.xml
